@@ -81,3 +81,5 @@ oracle. Articulation séquentielle — NEXUS-ARCHÊ → iris-oracle — sans fus
 - Fractales du Destin ([repo source](https://github.com/Othman-Benbrahim/Fractales-du-destin))
 - Oracle Synchromantique IRIS∞
 - Partie de l'écosystème [IRIS∞](https://github.com/Othman-Benbrahim)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Othman-Benbrahim/iris-oracle)
